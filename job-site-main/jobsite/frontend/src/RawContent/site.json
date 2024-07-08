@@ -1,0 +1,10 @@
+{
+	"meta": {
+		"title": "Job Dundho",
+		"titleTemplate": "%s",
+		"description": "Search for any type of job in the portal and never worry about using multiple job portals.",
+		"siteUrl": "https://jobdundho.com",
+		"siteName": "Job Dundho",
+		"thumbnail": "/thumbnail.png"
+	}
+}
